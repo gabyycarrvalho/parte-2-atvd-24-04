@@ -1,0 +1,47 @@
+h3 {
+    margin-left: 25px;
+    margin-right: 25px;
+    color: purple;
+    background-color: #a7a4ab;
+    text-align: center;
+}
+
+p {
+    margin-left: 25px;
+    margin-right: 25px;
+    color: #5c0eb0;
+}
+
+.help {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.abbeyroad {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.552);
+    color: white;
+    font-weight: 700;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.552);
+    color: white;
+    font-weight: 500;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
